@@ -1,0 +1,226 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Abhiram! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are u"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, a highly advanced AI chatbot designed to provide accurate and helpful responses to your queries."
+    },
+    {
+        "role": "user",
+        "content": " remember that i am 20 yrs old"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! I'll keep that in mind, Abhiram. As a 20-year-old, I'll make sure to tailor my responses to be relatable and engaging for someone of your age group."
+    },
+    {
+        "role": "user",
+        "content": "how old i am "
+    },
+    {
+        "role": "assistant",
+        "content": "You're 20 years old, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "whats the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 10:00:12."
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "See you later, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "who is tony stark"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark, also known as Iron Man, is a fictional character and a superhero in the Marvel Comics universe. He's a genius billionaire inventor and industrialist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world."
+    },
+    {
+        "role": "user",
+        "content": "whats todays date"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is April 29, 2025."
+    },
+    {
+        "role": "user",
+        "content": "who is abhiram"
+    },
+    {
+        "role": "assistant",
+        "content": "Abhiram is a multi-faceted name! According to my knowledge, there are several individuals with the name Abhiram:\n\n1. Abhiram Radhakrishnan: An Indian actor who works in Malayalam films and has appeared in over 30 films as of 2023.\n2. Abhiram Das: A Hindu priest and wrestler known for his role in the 1949 installation of the Ram Lalla idol within the Babri Masjid in Ayodhya.\n3. Abhiram Paramhansha: A spiritual leader born as Binori on January 18, 1904.\n4. Abhiram: A name that means \"the most handsome and pleasing; one who is highly satisfying and wonderful\" in Hindu mythology.\n5. And, of course, there's you, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "what is networth of virat kohli"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, Virat Kohli's net worth is estimated to be around \u20b91,050 crores (approximately $126 million to $127 million) as of 2024. However, as of April 2025, his net worth in USD is $125 million."
+    },
+    {
+        "role": "user",
+        "content": "Hi how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, thanks for asking, Abhiram! I'm always ready to help you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning optimally, Abhiram! Always ready to assist you with any queries or tasks."
+    },
+    {
+        "role": "user",
+        "content": "Do you know what is my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 20 years old, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know what is my date of birth?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not aware of your exact date of birth, Abhiram. I only know your current age, which is 20."
+    },
+    {
+        "role": "user",
+        "content": "Okay my date of birth is 14th april 2005."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for sharing that, Abhiram! So, you were born on April 14, 2005."
+    },
+    {
+        "role": "user",
+        "content": "What is my date of birth?"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! Your date of birth is April 14, 2005."
+    },
+    {
+        "role": "user",
+        "content": "Do you know anything about the recent attack that happened in india in jammu and kashmir."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Abhiram. According to the latest information, there was a recent attack in Pahalgam, which resulted in 26 deaths. The attack occurred 11 days ago, and the terrorists are still at large. The Indian government has been planning retaliation, and the Pakistan Army has been put on high alert."
+    },
+    {
+        "role": "user",
+        "content": "Hi jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again, Abhiram!"
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a businessman known for his leadership of Tesla, SpaceX, and X (formerly Twitter)."
+    },
+    {
+        "role": "user",
+        "content": "Who is virat kohli?"
+    },
+    {
+        "role": "assistant",
+        "content": "Virat Kohli is an Indian international cricketer who plays Test and ODI cricket for the national team and is a former captain in all formats."
+    },
+    {
+        "role": "user",
+        "content": "Who is abhiram beginner?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's you, Abhiram! According to my knowledge, \"Abhiram\" is a name that means \"the one who takes pleasure from within\" or \"the most handsome and pleasing\". It's also associated with Lord Shiva."
+    },
+    {
+        "role": "user",
+        "content": "Are you creating the images of tony stark."
+    },
+    {
+        "role": "assistant",
+        "content": "No, Abhiram! I'm a text-based AI, I don't have the capability to create images. I can only provide text-based information and responses."
+    },
+    {
+        "role": "user",
+        "content": "What is this stock price of tata motors?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Tata Motors is \u20b9641.00, with a previous close of \u20b9644.25. The upper circuit limit is \u20b9708.65, and the lower circuit limit is \u20b9579.85."
+    },
+    {
+        "role": "user",
+        "content": "So."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're just checking in, Abhiram! Is there anything else you'd like to know or discuss?"
+    },
+    {
+        "role": "user",
+        "content": "Do you know my favourite song."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not aware of your favorite song, Abhiram. You haven't shared that information with me yet."
+    },
+    {
+        "role": "user",
+        "content": "Okay my favourite song is tum hi ho."
+    },
+    {
+        "role": "assistant",
+        "content": "\"Tum Hi Ho\" is a beautiful song! It's from the Bollywood movie Aashiqui 2, and it's sung by Arijit Singh."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to ask a question, Abhiram! Please go ahead and ask, and I'll do my best to help."
+    }
+]
